@@ -1,6 +1,6 @@
 # Dll call
 
-**Para iniciar o servidor você precisa do compilador da linguagem <a href="https://go.dev">GO</a>**
+**Para iniciar o servidor você precisa do <a href="https://go.dev">compilador da linguagem GO</a>**
 
 ## Comando que inicia o servidor
 
